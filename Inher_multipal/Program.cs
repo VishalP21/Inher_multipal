@@ -1,0 +1,2 @@
+﻿using Inher_multipal;
+
